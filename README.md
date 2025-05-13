@@ -4,7 +4,7 @@ Therefore, the core of this project is how to securely manage and monitor Amazon
 
 This project focuses on continuous EKS security assessments and automatic remediation of non-compliant configurations. We mainly use the Python programming language, combined with the Kubernetes Python client and AWS SDK to implement the various control requirements in the CIS v1.6.0 benchmark.
 
-```Last updated - 12-23-2024```
+```Last updated - 13-May-2025```
 
 # 📚 Catalogs
 <details>
